@@ -1,0 +1,1 @@
+The growing global populations, particularly in major cities, have created new problems, notably in terms of public safety regulation and optimization. As a result, in this paper, a strategy is provided for predicting crime occurrences in a city based on historical events and demographic observation.
